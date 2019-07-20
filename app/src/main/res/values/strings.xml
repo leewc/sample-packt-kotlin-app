@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kotlinexperiment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="add_new_task_dialog_title">Add</string>
+    <string name="new_task">New</string>
+    <string name="task_save">Save</string>
+</resources>
